@@ -1,5 +1,6 @@
-import 'package:dart_one_future/dart_one_future.dart' as dart_one_future;
+
+import '../lib/dart_one_future.dart' as cosmin;
 
 void main(List<String> arguments) {
-  print('Hello world: ${dart_one_future.calculate()}!');
+  print('Hello world: ${cosmin.calculate()}!');
 }
